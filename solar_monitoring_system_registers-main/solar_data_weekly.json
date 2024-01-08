@@ -1,0 +1,28 @@
+[
+    {
+      "date": "2023-11-27",
+      "Battery Max Voltage Today": 12.7,
+      "Battery Min Voltage Today": 12.8,
+      "Max Charge Current Today": 0.0,
+      "Max Discharge Current Today": 0.0,
+      "Max Charge Power Today": 0.0,
+      "Todays Max Discharge Power": 0.0,
+      "Todays Max Charge Amp Hours": 0.0,
+      "Todays Max Discharge Amp Hours": 0.0,
+      "Todays Power Generated": 0.0,
+      "Todays Power Consumed": 0.0
+   },
+   {
+      "date": "2023-11-27",
+      "Battery Max Voltage Today": 12.7,
+      "Battery Min Voltage Today": 12.8,
+      "Max Charge Current Today": 0.0,
+      "Max Discharge Current Today": 0.0,
+      "Max Charge Power Today": 0.0,
+      "Todays Max Discharge Power": 0.0,
+      "Todays Max Charge Amp Hours": 0.0,
+      "Todays Max Discharge Amp Hours": 0.0,
+      "Todays Power Generated": 0.0,
+      "Todays Power Consumed": 0.0
+   }
+]
