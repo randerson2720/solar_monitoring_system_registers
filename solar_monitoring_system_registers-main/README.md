@@ -3,8 +3,6 @@ This repository holds the code that simply sets up the data reading of the Renog
 
 Contributors:
 Ryan Anderson (ryananderson@lewisu.edu)
-Matthew Wysocki (matthewpwysocki@lewisu.edu )
-
 
 Renogy Wanderer Solar Controller Registers
 |0x00A|Controller voltage rating|Volts|
